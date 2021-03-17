@@ -1,11 +1,12 @@
 # Notes
 
-## Plans
-Statuses:
+## Legend
+
 - ⚠ TODO
 - 🚧 IN PROGRESS
 - ✅ DONE
 
+## Plans
 
 - ✅ validation/boundaries
   - ✅ argument should not be null
