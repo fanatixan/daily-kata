@@ -1,4 +1,6 @@
-# {current date}
+# 2021-03-17
+
+Implemented in package `hu.javadev.disemvoweltrolls` 
 
 [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e/java)
 
