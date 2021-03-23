@@ -1,5 +1,6 @@
 plugins {
     java
+    id("com.adarshr.test-logger") version "2.1.1"
 }
 
 group = "hu.javadev"
